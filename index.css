@@ -1,0 +1,15 @@
+.c1{
+  color:blueviolet;
+ 
+  font-style: italic;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+background-color:black
+}
+.f1{
+  text-align:justify;
+  width: 400px;
+  height: 500px;
+  background-color:white;
+}

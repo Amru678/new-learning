@@ -1,4 +1,6 @@
 //Given an integer x, return true if x is a palindrome, and false otherwise.
+
+//Minor Change
 class Palindrome{
     public boolean isPalindrome(int x) {
         int rem=0,rev=0;
